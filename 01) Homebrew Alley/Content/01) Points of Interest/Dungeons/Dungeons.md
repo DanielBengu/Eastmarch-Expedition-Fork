@@ -10,9 +10,12 @@ Dungeons for the **Eastmarch Expedition** follow a 5-room layout as described by
 - The Resolution
 
 ## Dungeon Template
-If you want a base structure for a dungeon with the 5-room layout already prepared, copy the [[1. Dungeon Template| template]] and modify it.
+If you want a base structure for a dungeon with the 5-room layout already prepared, copy the [[0. Dungeon Template| template]] and modify it.
 
 ## Locations
 - *026* -> [[The Mountain Witch]] by [[Kayer]]
-- *211* -> [[Kobolds' Mines]] by [[Shivalyr]]
+- *123* -> [[123. Shardwyrm's Lair]] by [[Shivalyr]]
+- *211* -> [[211. Kobolds' Mines]] by [[Shivalyr]]
 - *320* -> [[The Withered Vale]] by [[Kayer]]
+- *388* -> [[Farmer's Hut]] by [[Shivalyr]]
+- *623* -> [[Halfling Merchant's Camp]] by [[Shivalyr]]
